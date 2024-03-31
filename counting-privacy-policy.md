@@ -1,3 +1,4 @@
+# Privacy Policy
 
 
 Welcome! This Privacy Policy explains how we collect, use, store, protect and share your personal information through our Services.
