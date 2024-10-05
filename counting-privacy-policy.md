@@ -77,7 +77,7 @@ Contact
 The project is managed by ramsybot
 
 The bot is owned by Reedroux LLC
-E-mail: reedrouxmusic@gmx.net
+E-mail: contact@reedroux.biz
 
 If you have any questions, please feel free to contact us using the methods listed below.
 
